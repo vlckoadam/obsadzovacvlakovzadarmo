@@ -1,3 +1,4 @@
 # Pozor! Nepoužívať v texte znaky ';' a '=', tie patria oddeľovačom
 # Formát: id=?;src=?;icon=? ... id - podľa toho sa používateľom správy budú zobrazovať iba raz; src - obsah správy; icon - ikonka (Asterisk, Exclamation, Error, Question, None) 
 # Neviem prečo, občas to trvá, kým sa to všetko načíta. Zverejní sa update a mne to asi minútku/dve ukazuje ešte starú verziu tohto rawu. Tak ja neviem čo je s tým zle. Či si to nejak ukladá do akéhosi cachu či čo ... nemám šajnu, snáď sa tie správy budú používateľom zobrazovať.
+id=123;src=Snad som to uz opravil;icon=Question
